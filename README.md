@@ -7,7 +7,7 @@ This is a website of my favorite movies and their trailers using python.
 # How to run program?
 Step 1) Download and save all files in "MoiveWebPage".
 
-Step 2) Open Entertainment_Center.py in Python Shell.
+Step 2) Open "Entertainment_Center.py" in Python Shell.
 
 Step 3) Save and run program.
 
