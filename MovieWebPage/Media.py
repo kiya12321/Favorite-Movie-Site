@@ -2,7 +2,7 @@ import webbrowser
 
 
 class Movie:
-    """Attributes:
+    """About:
         movie_title: The movie's title.
         poster_image_url: The URL for the movie's poster art.
         trailer_youtube_url: The URL for the movie's Trailer
