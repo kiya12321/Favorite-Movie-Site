@@ -31,3 +31,7 @@ lolita = Media.Movie("Lolita",
                      "http://img.moviepostershop.com/lolita-movie-poster-1962-1010743418.jpg",
                      "https://www.youtube.com/watch?v=gykHjlrWp2c")
 # A man writes a 300+ page book to justify having sex with his 12 year old stepdaughter.
+
+# script that creates web page
+movies = (lotr1, lotr2, lotr3, halloween, jaws, lolita)
+fresh_tomatoes.open_movies_page(movies)
